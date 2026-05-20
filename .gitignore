@@ -1,0 +1,11 @@
+data/
+ckpt/
+outputs/
+metrics/
+pretrained/
+work_dirs/
+viz/
+cache/
+test/
+__pycache__/
+.vscode
